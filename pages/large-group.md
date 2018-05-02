@@ -7,11 +7,11 @@ Large group is held on Wednesday nights, where everyone gathers for a time of mu
 
 ## Spring 2018
 
-When: Wednesdays at 7:30 pm
+When: Wednesdays at 7:00 pm
 
-Where: Young CS24
+Where: MS 4000A
 
-Additionally, join us for dinner @ 6:00 pm in De Neve dining hall!
+Additionally, join us for dinner @ 5:30 pm in De Neve dining hall!
 
 All our past sermons are [online](/sermons).
 
