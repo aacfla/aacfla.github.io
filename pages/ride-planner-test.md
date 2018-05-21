@@ -27,10 +27,11 @@ permalink: /ride-planner-test
 <div class="pure-control-group">
 <label for="year">Year</label>
 <select name="year">
-	<option value="2018">2018</option>
-	<option value="2019">2019</option>
-	<option value="2020">2020</option>
-	<option value="2021">2021</option>
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+    <option value="other">other</option>
 </select>
 </div>
 
