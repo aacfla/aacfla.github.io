@@ -7,10 +7,10 @@ Large group is typically held on Wednesday nights, where everyone gathers for a 
 
 ## Fall 2018
 
-When: September 27, Thursday (just for Week 0!), at 7:00 pm
+When: September 27, Thursday (just for Week 0!), at 6 pm
 
 Where: TBA, check our [Facebook page](https://www.facebook.com/aacfla) for the most recent updates!
 
-Additionally, we'd love to have you eat dinner with us @ 5:30 pm in De Neve dining hall!
+Additionally, we'd love to have you eat dinner with us at 5 pm in De Neve dining hall!
 
 Explore our past sermons [online](/sermons) or shoot any questions to <{{site.email}}>.
