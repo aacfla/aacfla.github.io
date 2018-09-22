@@ -9,7 +9,7 @@ Large group is typically held on Wednesday nights, where everyone gathers for a 
 
 When: Thursday (just for Week 0!), September 27, at 6 pm
 
-Where: Bruin Reception Room (of the 2nd floor of Ackerman, near Ackerman Grand Ballroom)
+Where: Bruin Reception Room (on the 2nd floor of Ackerman, near Ackerman Grand Ballroom)
 
 Additionally, we'd love to have you eat dinner with us at 5 pm in De Neve dining hall!
 
