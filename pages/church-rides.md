@@ -19,3 +19,5 @@ You are welcome to check out our Friday night ministries AWANA (children's minis
 
 ## [Immanuel Bible Church](https://ibcbible.org/){: target="_blank"} (Santa Monica, CA)
 Contact Mandi Ahn
+
+Join us for our College Sunday School and Congregational Worship every Sunday! We highly encourage membership for those who are committed to IBC and want to begin serving in our various ministries. If you are interested, please feel free to ask members and attendees!
