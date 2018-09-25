@@ -9,7 +9,7 @@ AACF stands for Asian American Christian Fellowship. Everyone of any ethnicity i
 
 The vision of AACF at UCLA is to glorify and love God by loving the campus through proclaiming the gospel, supporting the church family, and equipping disciples of Christ.
 
-## 2018-2019 Theme: *Behold*
+## 2018-2019 Theme: **Behold**
 ## Theme Verse
 
 "For what we proclaim is not ourselves, but Jesus Christ as Lord, with ourselves as your servants for Jesus' sake. For God, who said, 'Let light shine out of darkness,' has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ."
