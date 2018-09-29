@@ -37,7 +37,7 @@ body {
 	@include font-heading-1;
 	text-align: center;
 	text-transform: uppercase;
-	
+
 	@include reset-links;
 
 	ul {
@@ -209,4 +209,10 @@ a {
 
 a:hover {
 	color: $inverse-tertiary;
+}
+
+#sermon-select {
+	font: inherit;
+	color: inherit;
+	display: inline-block;
 }
