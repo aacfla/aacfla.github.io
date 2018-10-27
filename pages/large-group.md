@@ -7,6 +7,8 @@ Large group is typically held on Wednesday nights, where everyone gathers for a 
 
 ## Fall 2018
 
+**Instead of having large group on Halloween, we will be participating in Lighthouse's Fall Festival and CCAC's Fun Factory. See our Facebook group for info about volunteering and getting a ride to the events!**
+
 When: Wednesday at 7 pm
 
 Where: Kinsey Pavilion 1220B

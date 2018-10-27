@@ -20,8 +20,8 @@ Join us on our [Facebook group](https://www.facebook.com/groups/aacfla.18.19/){:
 
 <div class="link-tile-list" markdown="1">
 
-* [<span class="link-tile-title">Large Group</span>](/large-group)
-* [<span class="link-tile-title">Church Rides</span>](/church-rides)
-* [<span class="link-tile-title">Ministries</span>](/ministries)
+* [<span class="link-tile-title">Large Group</span>Wednesday nights](/large-group)
+* [<span class="link-tile-title">Church Rides</span>Sunday mornings](/church-rides)
+* [<span class="link-tile-title">Ministries</span>learn more](/ministries)
 
 </div>
