@@ -7,12 +7,12 @@ Large group is typically held on Wednesday nights, where everyone gathers for a 
 
 ## Fall 2018
 
-**Instead of having large group on Halloween, we will be participating in Lighthouse's Fall Festival and CCAC's Fun Factory. See our Facebook group for info about volunteering and getting a ride to the events!**
-
+**Instead of having large group on Halloween, we will be participating in Lighthouse's Fall Festival and CCAC's Fun Factory. See our Facebook [group](https://www.facebook.com/groups/aacfla.18.19/){: target="_blank"} for info about volunteering and getting a ride to the events!**
+<!--
 When: Wednesday at 7 pm
 
 Where: Kinsey Pavilion 1220B
 
 Additionally, we'd love to have you join us for dinner at 5:30 pm in De Neve dining hall! Check out our Facebook [group](https://www.facebook.com/groups/aacfla.18.19/){: target="_blank"} for other events.
 
-You can also explore our past sermons [online](/sermons) or shoot any questions to <{{site.email}}>.
+You can also explore our past sermons [online](/sermons) or shoot any questions to <{{site.email}}>. -->
