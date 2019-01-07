@@ -3,10 +3,10 @@ title: Sermons
 permalink: /sermons
 ---
 
-## [2018-2019 Sermons](https://drive.google.com/drive/folders/14f5DCto15wWOwTUs2fk5yI781BScsXrz){: target="_blank"}
+## [2018-2019 Sermons](https://drive.google.com/drive/folders/14f5DCto15wWOwTUs2fk5yI781BScsXrz){: target="_blank" .track}
 This year's sermons are [here](https://drive.google.com/drive/folders/14f5DCto15wWOwTUs2fk5yI781BScsXrz){: target="_blank"}.
 
-Explore other past sermons here: <select id="sermon-select" onchange="var win = window.open(this.value, '_blank');win.focus();">
+Explore other past sermons here: <select class="track" id="sermon-select" onchange="var win = window.open(this.value, '_blank');win.focus();">
   <option value="">Year</option>
   <option value="https://drive.google.com/drive/folders/1wX12PONUg6kzthb0JvQ1WWjJSasyJe6T?usp=sharing">2017-2018</option>
   <option value="https://drive.google.com/drive/folders/0BwMAQeEL2MGmcHJRRjlDQ1djeXM?usp=sharing">2016-2017</option>
