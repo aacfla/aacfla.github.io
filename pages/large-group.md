@@ -11,6 +11,6 @@ When: Wednesdays at 7:30 pm
 
 Where: Perloff 1102
 
-Additionally, we'd love to have you join us for dinner at 6 pm in De Neve dining hall! Check out our Facebook [group](https://www.facebook.com/groups/aacfla.18.19/){: target="_blank"} for other events.
+Additionally, we'd love to have you join us for dinner at 5:45 pm in De Neve dining hall! Check out our Facebook [group](https://www.facebook.com/groups/aacfla.18.19/){: target="_blank"} for other events.
 
 You can also explore our past sermons [online](/sermons) or shoot any questions to <{{site.email}}>.
