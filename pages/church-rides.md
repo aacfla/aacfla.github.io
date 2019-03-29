@@ -8,7 +8,7 @@ AACF is not a church and should not substitute for your regular church attendanc
 ## [Lighthouse Community Church](https://lighthousesouthbay.org/){: target="_blank"} (Torrance, CA)
 Contact [Kimberly Hom or Timothy Li](mailto:kimberlyh.hoops31@gmail.com,timothyli97@gmail.com?subject=AACF:%20Lighthouse%20Ride%20Request)
 
-Come check out Lighthouse's college ministry Beacon, which is held every Friday starting at 7pm! If you have committed to attending Lighthouse Church, we highly encourage you to consider becoming a member, especially before serving. If you are unable to attend the membership series this quarter, you can still serve in Children's Ministry---ask Davey Wong for more info.
+Come check out Lighthouse's college ministry Beacon, which is held every Friday starting at 7:30 pm! If you have committed to attending Lighthouse Church, we highly encourage you to consider becoming a member, especially before serving. If you are unable to attend the membership series this quarter, you can still serve in Children's Ministry---ask a member for more info.
 
 ## [Community Christian Alliance Church](http://www.ccalliance.com/){: target="_blank"} (Northridge, CA)
 Contact [Deborah Cheng or Nicholas Lin](mailto: debcheng3@gmail.com, nicklin369@gmail.com?subject=AACF:%20CCAC%20Ride%20Request)
