@@ -15,7 +15,7 @@ Contact [Deborah Cheng or Nicholas Lin](mailto: debcheng3@gmail.com, nicklin369@
 
 You are welcome to check out our Friday night ministries AWANA (children's ministry) and Mustard Seed (middle school ministry). You can also serve as a student leader for Sojourners (college ministry). Church membership is also encouraged as you decide on committing to a ministry, but you are welcome to check out ministries as long as you need. Feel free to ask the rides coordinators or anyone currently serving for more info.
 
-## [Immanuel Bible Church](https://ibcbible.org/){: target="_blank"} (Santa Monica, CA)
-Contact [Mandi Ahn](mailto: mandiahn@yahoo.com?subject=AACF:%20IBC%20Ride%20Request)
+## [Immanuel Bible Church](https://ibcbible.org/){: target="_blank"} (North Hills, CA)
+Contact [Sydney Wu or David Lee](mailto: syjwu98@gmail.com,davidjlee67@gmail.com?subject=AACF:%20IBC%20Ride%20Request)
 
 Join us for our College Sunday School and Congregational Worship every Sunday! We highly encourage membership for those who are committed to IBC and want to begin serving in our various ministries. If you are interested, please feel free to ask members and attendees!
