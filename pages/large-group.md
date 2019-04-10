@@ -7,10 +7,10 @@ Large group is typically held on Wednesday nights, where everyone gathers for a 
 
 ## Spring 2019
 
-When: Wednesdays at 7 pm
+When: Wednesdays at 6:30 pm
 
 Where: Rolfe 1200
 
-Additionally, we'd love to have you join us for dinner at 5:30 pm in De Neve dining hall! Check out our Facebook [group](https://www.facebook.com/groups/aacfla.18.19/){: target="_blank"} for other events.
+Additionally, we'd love to have you join us for dinner at 5 pm in De Neve dining hall! Check out our Facebook [group](https://www.facebook.com/groups/aacfla.18.19/){: target="_blank"} for other events.
 
 You can also explore our past sermons [online](/sermons) or shoot any questions to <{{site.email}}>.
