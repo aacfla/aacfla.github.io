@@ -9,8 +9,8 @@ Large group is where everyone gathers for a time of musical worship, a message f
 
 When: Thursday, September 26, at 7 pm
 
-Where: TBA
+Where: [LATC Straus Clubhouse](https://goo.gl/maps/ob9aVwJerxZZfXkv6)
 
-Additionally, we'd love to have you join us for dinner at 5:30 pm in De Neve dining hall! Check out our Facebook [group](https://www.facebook.com/groups/aacfla.18.19/){: target="_blank"} for other events.
+If you'll be on the hill, first meet us at [De Neve Plaza](https://goo.gl/maps/CqDa55sbByp26CE2A) and we'll walk over together from there! Check out our Facebook [group](https://www.facebook.com/groups/467173423834155/){: target="_blank"} for other events.
 
 You can also explore our past sermons [online](/sermons) or shoot any questions to <{{site.email}}>.
