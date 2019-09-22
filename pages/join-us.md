@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Get Involved
-permalink: /get-involved
+title: Join Us
+permalink: /join-us
 ---
+<h1>{{ page.title }}</h1>
 
 <div class="text-panel" markdown="1">
 

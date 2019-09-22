@@ -15,7 +15,7 @@ Join us on our [Facebook group](https://www.facebook.com/groups/467173423834155/
 
 </div>
 
-# Get Involved
+# Join Us
 {: .no-margin-bottom}
 
 <div class="link-tile-list" markdown="1">

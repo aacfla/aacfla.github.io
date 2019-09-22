@@ -11,6 +11,6 @@ When: Thursday, September 26, at 7 pm
 
 Where: [LATC Straus Clubhouse](https://goo.gl/maps/ob9aVwJerxZZfXkv6)
 
-If you'll be on the hill, first meet us at [De Neve Plaza](https://goo.gl/maps/CqDa55sbByp26CE2A) and we'll walk over together from there! Check out our Facebook [group](https://www.facebook.com/groups/467173423834155/){: target="_blank"} for other events.
+If you are on the hill, first meet us at [De Neve Plaza](https://goo.gl/maps/CqDa55sbByp26CE2A) and we'll walk over together from there! Check out our Facebook [group](https://www.facebook.com/groups/467173423834155/){: target="_blank"} for other events.
 
 You can also explore our past sermons [online](/sermons) or shoot any questions to <{{site.email}}>.

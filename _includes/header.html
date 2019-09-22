@@ -15,5 +15,9 @@
 {% endfor %}
 </ul>
 </nav>
-<img id="banner-image" src="/assets/img/aacf-retreat.jpg" />
+{% if page.title == "Large Group" %}
+<img id="banner-image" src="/assets/img/welcome.jpg" />
+{% else %}
+<img id="banner-image" src="/assets/img/aacf-retreat-19.jpg" />
+{% endif %}
 </header>
