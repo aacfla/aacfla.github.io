@@ -6,7 +6,7 @@ permalink: /church-rides
 AACF is not a church and should not substitute for your regular church attendance. However, we can arrange for rides to the following churches to help you get plugged into the area! Shoot a message to a church rides coordinator or use this [form](https://tinyurl.com/aacf2019rides) to sign up for rides!
 
 ## [Lighthouse Community Church](https://lighthousesouthbay.org/){: target="_blank"} (Torrance, CA)
-Contact [Joyce Ito or Matthew Cheung](mailto:joyceito2000@gmail.com,ma.ch3379@gmail.com?subject=AACF:%20Lighthouse%20Rides)
+Contact [Joyce Ito or Matthew Chung](mailto:joyceito2000@gmail.com,ma.ch3379@gmail.com?subject=AACF:%20Lighthouse%20Rides)
 
 ## [Community Christian Alliance Church](http://www.ccalliance.com/){: target="_blank"} (Northridge, CA)
 Contact [Samantha Yao or Amos To](mailto: yao.samantha.d@gmail.com, amosccs510@gmail.com?subject=AACF:%20CCAC%20Rides)
