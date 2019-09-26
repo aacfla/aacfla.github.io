@@ -11,6 +11,6 @@ When: Thursday, September 26, at 7 pm
 
 Where: [LATC Straus Clubhouse](https://goo.gl/maps/ob9aVwJerxZZfXkv6)
 
-If you're able, come join us for dinner first at [De Neve](https://goo.gl/maps/CqDa55sbByp26CE2A) at 5:30 pm! At 6:40 pm, we'll walk over to Straus together! Check out our Facebook [group](https://www.facebook.com/groups/467173423834155/){: target="_blank"} for other events.
+If you're able, come join us for dinner first at [De Neve](https://goo.gl/maps/ue6zRLpHwnqxFCoh7) at 5:30 pm! At 6:40 pm, we'll walk over to Straus together! Check out our Facebook [group](https://www.facebook.com/groups/467173423834155/){: target="_blank"} for other events.
 
 You can also explore our past sermons [online](/sermons) or shoot any questions to <{{site.email}}>.
