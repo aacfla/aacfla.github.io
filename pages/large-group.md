@@ -11,6 +11,6 @@ When: Wednesdays at 7:30 pm
 
 Where: [Rolfe 1200](https://goo.gl/maps/u2rkWMSZ82DX3pL8A){: target="_blank"}
 
-If you're able, come join us for dinner first at [De Neve](https://goo.gl/maps/ue6zRLpHwnqxFCoh7){: target="_blank"}  at 5:45 pm! Afterwards we'll walk over to large group together! Check out our Facebook [group](https://www.facebook.com/groups/467173423834155/){: target="_blank"} for other events.
+If you're able, come join us for dinner first at [De Neve](https://goo.gl/maps/ue6zRLpHwnqxFCoh7){: target="_blank"}  at 6 pm! Afterwards we'll walk over to large group together! Check out our Facebook [group](https://www.facebook.com/groups/467173423834155/){: target="_blank"} for other events.
 
 You can also explore our past sermons [online](/sermons) or shoot any questions to <{{site.email}}>.
