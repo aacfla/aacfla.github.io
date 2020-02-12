@@ -11,8 +11,6 @@ When: Wednesdays at 7:30 pm
 
 Where: [Kinsey 1200B](https://goo.gl/maps/934fo7KScYtPPQez8){: target="_blank"}
 
-#### *Note: Week 5 large group (February 5) will be held in [CS 76](https://goo.gl/maps/8L56dWriWV9y85qHA){: target="_blank"} instead of Kinsey.
-
-If you're able, come join us for dinner first at [De Neve](https://goo.gl/maps/ue6zRLpHwnqxFCoh7){: target="_blank"}  at 6 pm! Afterwards we'll walk over to large group together! Check out our Facebook [group](https://www.facebook.com/groups/467173423834155/){: target="_blank"} for other events.
+If you're able, come join us for dinner first at 6 pm! Afterwards we'll walk over to large group together! Check out our Facebook [group](https://www.facebook.com/groups/467173423834155/){: target="_blank"} for this week's dorm dinner location.
 
 You can also explore our past sermons [online](/sermons) or shoot any questions to <{{site.email}}>.
