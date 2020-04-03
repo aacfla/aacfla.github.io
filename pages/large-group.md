@@ -5,12 +5,10 @@ permalink: /large-group
 
 Large group is where everyone gathers for a time of musical worship, a message from God's Word, and some prayer. This is a time where AACF as a whole can come together for fellowship and encouragement from one another in the middle of the week. Our focus is to worship God and to come to a more biblical understanding of who He is.
 
-## Winter 2020
+## Spring 2020
 
 When: Wednesdays at 7:30 pm
 
-Where: [Kinsey 1200B](https://goo.gl/maps/934fo7KScYtPPQez8){: target="_blank"}
-
-If you're able, come join us for dinner first at 6 pm! Afterwards we'll walk over to large group together! Check out our Facebook [group](https://www.facebook.com/groups/467173423834155/){: target="_blank"} for this week's dorm dinner location.
+Where: on Zoom! Join our Facebook [group](https://www.facebook.com/groups/467173423834155/){: target="_blank"} to get the Zoom link and find out more details for this week's large group.
 
 You can also explore our past sermons [online](/sermons) or shoot any questions to <{{site.email}}>.
