@@ -11,7 +11,7 @@ bare_title: true
 
 Our vision this year is to **glorify and love God** by loving the campus through **proclaiming** the gospel, **supporting** the church family, and **equipping** disciples of Christ.
 
-Join us on our [Facebook group](https://www.facebook.com/groups/467173423834155/){: target="_blank"}!
+Join us on our [Facebook group](https://www.facebook.com/groups/294132541731419/){: target="_blank"}!
 
 </div>
 
@@ -20,7 +20,7 @@ Join us on our [Facebook group](https://www.facebook.com/groups/467173423834155/
 
 <div class="link-tile-list" markdown="1">
 
-* [<span class="link-tile-title">Large Group</span>Wednesday nights](/large-group)
+* [<span class="link-tile-title">Large Group</span>Thursdays nights](/large-group)
 * [<span class="link-tile-title">Church Rides</span>Sunday mornings](/church-rides)
 * [<span class="link-tile-title">Ministries</span>learn more](/ministries)
 
