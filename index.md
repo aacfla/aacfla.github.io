@@ -20,7 +20,7 @@ Join us on our [Facebook group](https://www.facebook.com/groups/294132541731419/
 
 <div class="link-tile-list" markdown="1">
 
-* [<span class="link-tile-title">Large Group</span>Thursdays nights](/large-group)
+* [<span class="link-tile-title">Large Group</span>Wednesdays nights](/large-group)
 * [<span class="link-tile-title">Church Rides</span>Sunday mornings](/church-rides)
 * [<span class="link-tile-title">Ministries</span>learn more](/ministries)
 

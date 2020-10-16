@@ -9,12 +9,12 @@ AACF stands for Asian American Christian Fellowship. Everyone of any ethnicity i
 
 The vision of AACF at UCLA is to glorify and love God by loving the campus through proclaiming the gospel, supporting the church family, and equipping disciples of Christ.
 
-## 2019-2020 Theme: Coram Deo
+## 2020-2021 Theme: In God Alone
 ## Theme Verse
 
-"But you, beloved, building yourselves up in your most holy faith and praying in the Holy Spirit, keep yourselves in the love of God, waiting for the mercy of our Lord Jesus Christ that leads to eternal life."
+"Whom have I in heaven but you? And there is nothing on earth that I desire beside you. My flesh and my heart may fail, but God is the strength of my heart and my portion forever."
 
-Jude 20-21 (ESV)
+Psalm 73:25-26 (ESV)
 
 ## Mission Statement
 
