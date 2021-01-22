@@ -4,7 +4,7 @@ permalink: /sermons
 ---
 
 ## [2020-2021 Sermons](https://drive.google.com/drive/folders/1VbpgRiwRp62rcGCBgfps8QxgeXdNEA-E?usp=sharing){: target="_blank" .track}
-This year's sermons are [here](https://drive.google.com/drive/folders/1VbpgRiwRp62rcGCBgfps8QxgeXdNEA-E?usp=sharing){: target="_blank"}.
+This year's sermons are [here](https://drive.google.com/drive/folders/1Kn_Caet04YTC-O4aJF80mpm2BGxUZPI5?usp=sharing){: target="_blank"}.
 
 Explore other past sermons here: <select class="track" id="sermon-select" onchange="var win = window.open(this.value, '_blank');win.focus();">
   <option value="">Year</option>
